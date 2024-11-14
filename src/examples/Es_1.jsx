@@ -10,3 +10,4 @@ const Example1 = () => {
     );
 };
 
+export default Example1;
